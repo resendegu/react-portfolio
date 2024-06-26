@@ -1,23 +1,23 @@
-const logotext = "JOHN";
+const logotext = "Gean";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Gean Felipe",
+    description: "Eu sou Gean Felipe, técnico em eletrônica, buscando sempre aprender e evoluir.",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I'm Gean Felipe",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I love Impala 67",
+        second: "I am foda!",
+        third: "I like to learn new things",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I'm an electronics technician, always looking to learn and evolve. I'm an authentic guy who dreams of being a YouTuber someday. When it comes to movies, you could say I'm a walking library! I've seen so much that I can probably identify any movie you mention.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "a bit about myself",
+    aboutme: "I'm an electronics technician, always looking to learn and evolve. I'm an authentic guy who dreams of being a YouTuber someday. When it comes to movies, you could say I'm a walking library! I've seen so much that I can probably identify any movie you mention.",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
@@ -136,9 +136,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
+    YOUR_EMAIL: "gean@resende.app",
     YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "Get in touch with me. (This is only for test, actually my friend is the one who is going to receive this email)",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
